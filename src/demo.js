@@ -24,7 +24,7 @@ function PaperComponent(props) {
   );
 }
 
-export default class FormDialog extends Component {
+export default class Add_Rule extends Component {
   constructor(props) {
     super(props);
     this.state = {
