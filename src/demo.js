@@ -104,7 +104,13 @@ export default class Add_Rule extends Component {
   render() {
     return (
       <div>
-        <Button color="primary" size="small" onClick={this.handleClickOpen}>
+        <Button
+          color="#fff"
+          disableRipple
+          disableFocusRipple
+          disableElevation
+          onClick={this.handleClickOpen}
+        >
           Add Rule
         </Button>
         <Dialog
