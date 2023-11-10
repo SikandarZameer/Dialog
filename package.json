@@ -6,7 +6,7 @@
   "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/dialogs/FormDialog.js",
   "dependencies": {
     "@material-ui/core": "latest",
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "react": "latest",
     "react-dom": "latest",
     "react-draggable": "4.4.3"
